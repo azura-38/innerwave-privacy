@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mystic Signal - Terms of Service</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+            background-color: #f4f7fb;
+            color: #1a1a1a;
+        }
+
+        h1 {
+            color: #4a6cff;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #2c3e50;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+
+        .footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: gray;
+        }
+
+        .highlight {
+            background-color: #eef2ff;
+            padding: 10px;
+            border-radius: 6px;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+<h1>Mystic Signal – Terms of Service</h1>
+
+<p><strong>Last Updated:</strong> February 18, 2026</p>
+
+<h2>1. Acceptance of Terms</h2>
+
+<p>
+By downloading, installing, or using Mystic Signal ("App"), you agree to be bound by these Terms of Service.
+If you do not agree, please do not use the App.
+</p>
+
+<h2>2. Description of Service</h2>
+
+<p>
+Mystic Signal provides AI-generated symbolic, interpretive, and entertainment-based content.
+</p>
+
+<p class="highlight">
+Mystic Signal is intended for entertainment purposes only and does not provide medical, legal, financial, or professional advice.
+</p>
+
+<h2>3. User Responsibilities</h2>
+
+<p>You agree not to:</p>
+
+<ul>
+<li>Use the app for illegal purposes</li>
+<li>Attempt to hack, reverse engineer, or disrupt the app</li>
+<li>Exploit bugs or vulnerabilities</li>
+<li>Use automated systems to abuse the service</li>
+</ul>
+
+<h2>4. Intellectual Property</h2>
+
+<p>
+All app content, branding, design, and software are owned by Limanex Software.
+</p>
+
+<p>
+You may not copy, modify, or redistribute any part of the app without permission.
+</p>
+
+<h2>5. In-App Purchases</h2>
+
+<p>
+Mystic Signal offers optional Premium features through Google Play Billing.
+</p>
+
+<p>
+Payments are processed securely by Google Play.
+We do not store payment information.
+</p>
+
+<p>
+All purchases are subject to Google Play refund policies.
+</p>
+
+<h2>6. Advertisements</h2>
+
+<p>
+The free version of Mystic Signal may display advertisements provided by third-party ad networks such as Google AdMob.
+</p>
+
+<h2>7. Service Availability</h2>
+
+<p>
+We do not guarantee uninterrupted availability.
+The app may be updated, modified, or discontinued at any time.
+</p>
+
+<h2>8. Limitation of Liability</h2>
+
+<p>
+Mystic Signal is provided "as is" without warranties of any kind.
+</p>
+
+<p>
+Limanex Software is not responsible for:
+</p>
+
+<ul>
+<li>Any damages resulting from use of the app</li>
+<li>Data loss</li>
+<li>Service interruptions</li>
+<li>Interpretation of generated content</li>
+</ul>
+
+<h2>9. Termination</h2>
+
+<p>
+We reserve the right to terminate or restrict access to the app if these terms are violated.
+</p>
+
+<h2>10. Privacy</h2>
+
+<p>
+Use of Mystic Signal is also governed by our Privacy Policy.
+</p>
+
+<h2>11. Changes to Terms</h2>
+
+<p>
+We may update these Terms at any time.
+Continued use of the app means acceptance of updated Terms.
+</p>
+
+<h2>12. Governing Law</h2>
+
+<p>
+These Terms are governed by applicable international laws.
+</p>
+
+<h2>13. Contact</h2>
+
+<p>
+Limanex Software<br>
+Email: limanexsoftware@outlook.com
+</p>
+
+<div class="footer">
+© 2026 Limanex Software. All rights reserved.
+</div>
+
+</div>
+
+</body>
+</html>
