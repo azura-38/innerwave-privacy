@@ -1,212 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Mystic Signal - Privacy Policy</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: auto;
-            padding: 20px;
-            background-color: #f4f7fb;
-            color: #1a1a1a;
-        }
+Last Updated: February 20, 2026
 
-        h1 {
-            color: #4a6cff;
-        }
+1. ACCEPTANCE OF TERMS
 
-        h2 {
-            margin-top: 30px;
-            color: #2c3e50;
-        }
+By downloading, installing, or using InnerWave ("App"), you agree to be bound by these Terms of Service. If you do not agree, please do not use the App.
 
-        p {
-            margin: 10px 0;
-        }
+2. DESCRIPTION OF SERVICE
 
-        .container {
-            background: white;
-            padding: 30px;
-            border-radius: 10px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-        }
+InnerWave provides AI-generated symbolic, interpretive, and entertainment-based content.
 
-        .footer {
-            margin-top: 40px;
-            font-size: 14px;
-            color: gray;
-        }
+InnerWave is intended for entertainment purposes only and does not provide medical, legal, financial, or professional advice.
 
-        a {
-            color: #4a6cff;
-            text-decoration: none;
-        }
+3. USER RESPONSIBILITIES
 
-        a:hover {
-            text-decoration: underline;
-        }
+You agree not to:
+• Use the app for illegal purposes
+• Attempt to hack, reverse engineer, or disrupt the app
+• Exploit bugs or vulnerabilities
+• Use automated systems to abuse the service
 
-        .highlight {
-            background-color: #eef2ff;
-            padding: 10px;
-            border-radius: 6px;
-        }
+4. INTELLECTUAL PROPERTY
 
-    </style>
-</head>
-<body>
+All app content, branding, design, and software are owned by Limanex Software.
 
-<div class="container">
+You may not copy, modify, or redistribute any part of the app without permission.
 
-<h1>Mystic Signal – Privacy Policy</h1>
+5. IN-APP PURCHASES
 
-<p><strong>Last Updated:</strong> February 18, 2026</p>
+InnerWave offers optional Premium features through Google Play Billing.
 
-<h2>1. Introduction</h2>
+Payments are processed securely by Google Play. We do not store payment information.
 
-<p>
-Mystic Signal is developed and operated by <strong>Limanex Software</strong> ("we", "our", "us").
-We respect your privacy and are committed to protecting your information.
-</p>
+All purchases are subject to Google Play refund policies.
 
-<p>
-Contact: <br>
+6. ADVERTISEMENTS
+
+The free version of InnerWave may display advertisements provided by third-party ad networks such as Google AdMob.
+
+7. SERVICE AVAILABILITY
+
+We do not guarantee uninterrupted availability. The app may be updated, modified, or discontinued at any time.
+
+8. LIMITATION OF LIABILITY
+
+InnerWave is provided "as is" without warranties of any kind.
+
+Limanex Software is not responsible for:
+• Any damages resulting from use of the app
+• Data loss
+• Service interruptions
+• Interpretation of generated content
+
+9. TERMINATION
+
+We reserve the right to terminate or restrict access to the app if these terms are violated.
+
+10. PRIVACY
+
+Use of InnerWave is also governed by our Privacy Policy.
+
+11. CHANGES TO TERMS
+
+We may update these Terms at any time. Continued use of the app means acceptance of updated Terms.
+
+12. GOVERNING LAW
+
+These Terms are governed by applicable international laws.
+
+13. CONTACT
+
+Limanex Software
 Email: limanexsoftware@outlook.com
-</p>
 
-<h2>2. Information We Collect</h2>
-
-<p>Mystic Signal does not require account registration.</p>
-
-<p>We may automatically collect:</p>
-
-<ul>
-<li>Device type</li>
-<li>Operating system version</li>
-<li>App version</li>
-<li>Country (approximate)</li>
-<li>Crash logs</li>
-<li>Usage statistics</li>
-<li>Advertising ID (if ads enabled)</li>
-</ul>
-
-<h2>3. Third-Party Services</h2>
-
-<h3>Google Firebase</h3>
-
-<p>Used for:</p>
-
-<ul>
-<li>Analytics</li>
-<li>Crash reporting</li>
-<li>Performance monitoring</li>
-</ul>
-
-<p>
-Privacy Policy: <br>
-<a href="https://policies.google.com/privacy" target="_blank">
-https://policies.google.com/privacy
-</a>
-</p>
-
-<h3>Google AdMob</h3>
-
-<p>Used to display ads in the free version.</p>
-
-<p>AdMob may collect:</p>
-
-<ul>
-<li>Advertising ID</li>
-<li>Device information</li>
-<li>Ad interaction data</li>
-</ul>
-
-<h3>AI Service</h3>
-
-<p>
-Mystic Signal uses a secure AI system to generate symbolic and interpretive content.
-</p>
-
-<p class="highlight">
-We do NOT store personal user prompts or personal identifiers.
-</p>
-
-<h2>4. Advertising & GDPR Consent</h2>
-
-<p>
-Users in the European Economic Area (EEA) may be asked for consent before personalized ads are shown.
-Users can choose personalized or non-personalized ads.
-</p>
-
-<h2>5. In-App Purchases</h2>
-
-<p>
-Mystic Signal offers Premium features through Google Play Billing.
-</p>
-
-<p>
-Payments are securely handled by Google. We do not store payment details.
-</p>
-
-<h2>6. Data Retention</h2>
-
-<p>
-We do not store personal user accounts. Third-party services may retain analytics or crash data according to their policies.
-</p>
-
-<h2>7. Children's Privacy</h2>
-
-<p>
-Mystic Signal is not intended for children under 13.
-We do not knowingly collect personal data from children.
-</p>
-
-<h2>8. Data Security</h2>
-
-<p>
-We use reasonable safeguards to protect data.
-However, no method of transmission is 100% secure.
-</p>
-
-<h2>9. Your GDPR Rights</h2>
-
-<p>You have the right to:</p>
-
-<ul>
-<li>Access your data</li>
-<li>Request deletion</li>
-<li>Withdraw consent</li>
-<li>Object to processing</li>
-</ul>
-
-<p>
-Contact: limanexsoftware@outlook.com
-</p>
-
-<h2>10. Changes to This Policy</h2>
-
-<p>
-We may update this Privacy Policy at any time.
-Changes will appear on this page.
-</p>
-
-<h2>11. Contact</h2>
-
-<p>
-Limanex Software<br>
-Email: limanexsoftware@outlook.com
-</p>
-
-<div class="footer">
 © 2026 Limanex Software. All rights reserved.
-</div>
 
-</div>
+14. ENTERTAINMENT DISCLAIMER AND LIMITATION OF LIABILITY
 
-</body>
-</html>
+InnerWave provides AI-generated insights, signals, horoscope interpretations, and symbolic guidance strictly for entertainment and informational purposes. These insights are generated automatically and may not reflect factual, scientific, medical, psychological, legal, or financial reality.
+
+InnerWave does not provide medical, mental health, legal, financial, or professional advice. Users must not rely on InnerWave content as a substitute for professional consultation.
+
+By using InnerWave, you acknowledge and agree that:
+• All insights are fictional, symbolic, or entertainment-based.
+• InnerWave makes no warranties regarding accuracy or reliability.
+• InnerWave is not responsible for decisions, actions, or outcomes resulting from use of the app.
+• You use the app entirely at your own risk.
+
+InnerWave and its developers shall not be liable for any direct, indirect, incidental, or consequential damages arising from use of the app.
+''',
