@@ -1,88 +1,96 @@
-Last Updated: February 18, 2026
+Last Updated: March 13, 2026
 
-1. ACCEPTANCE OF TERMS
+1. INTRODUCTION
 
-By downloading, installing, or using InnerWave ("App"), you agree to be bound by these Terms of Service. If you do not agree, please do not use the App.
+InnerWave ("App") is operated by Limanex Software.
 
-2. DESCRIPTION OF SERVICE
+We respect your privacy and are committed to protecting user information. This Privacy Policy explains how information may be collected, used, processed, and protected when you use the InnerWave application.
 
-InnerWave provides AI-generated symbolic, interpretive, and entertainment-based content.
+By using InnerWave, you agree to the practices described in this Privacy Policy.
 
-InnerWave is intended for entertainment purposes only and does not provide medical, legal, financial, or professional advice.
+2. INFORMATION WE COLLECT
 
-3. USER RESPONSIBILITIES
+InnerWave does not require account creation and does not collect personal identifying information such as name, address, or phone number.
 
-You agree not to:
-• Use the app for illegal purposes
-• Attempt to hack, reverse engineer, or disrupt the app
-• Exploit bugs or vulnerabilities
-• Use automated systems to abuse the service
+However, the following types of information may be collected automatically:
 
-4. INTELLECTUAL PROPERTY
+• User text inputs submitted to generate AI-based insights
+• Basic device information (device model, operating system version)
+• Application usage statistics
+• Crash reports and performance diagnostics
 
-All app content, branding, design, and software are owned by Limanex Software.
+This information is used strictly to operate and improve the application.
 
-You may not copy, modify, or redistribute any part of the app without permission.
+3. AI PROCESSING AND AUTOMATED CONTENT
 
-5. IN-APP PURCHASES
+Some features within InnerWave generate symbolic interpretations, signals, or reflections using artificial intelligence.
 
-InnerWave offers optional Premium features through Google Play Billing.
+User-provided inputs may be securely transmitted to third-party AI processing services (such as Groq API) in order to generate automated responses.
 
-Payments are processed securely by Google Play. We do not store payment information.
+These responses are generated algorithmically and are not reviewed by humans.
 
-All purchases are subject to Google Play refund policies.
+InnerWave does not use this data to identify individual users.
 
-6. ADVERTISEMENTS
+4. ANALYTICS
 
-The free version of InnerWave may display advertisements provided by third-party ad networks such as Google AdMob.
+InnerWave may use analytics services such as Firebase Analytics to understand how the application is used.
 
-7. SERVICE AVAILABILITY
+Analytics data may include:
 
-We do not guarantee uninterrupted availability. The app may be updated, modified, or discontinued at any time.
+• Feature usage statistics
+• Session duration
+• Device performance data
+• Crash logs
 
-8. LIMITATION OF LIABILITY
+This information helps improve application stability and user experience.
 
-InnerWave is provided "as is" without warranties of any kind.
+5. ADVERTISING
 
-Limanex Software is not responsible for:
-• Any damages resulting from use of the app
-• Data loss
-• Service interruptions
-• Interpretation of generated content
+The free version of InnerWave may display advertisements provided by third-party advertising networks such as Google AdMob.
 
-9. TERMINATION
+These services may collect limited device data (such as advertising identifiers) to deliver and measure advertisements.
 
-We reserve the right to terminate or restrict access to the app if these terms are violated.
+InnerWave does not control how third-party advertising partners process data.
 
-10. PRIVACY
+6. DATA SECURITY
 
-Use of InnerWave is also governed by our Privacy Policy.
+We implement reasonable security measures designed to protect application data.
 
-11. CHANGES TO TERMS
+However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
 
-We may update these Terms at any time. Continued use of the app means acceptance of updated Terms.
+7. DATA RETENTION
 
-12. GOVERNING LAW
+InnerWave does not permanently store user-generated text inputs.
 
-These Terms are governed by applicable international laws.
+Certain anonymized analytics or diagnostic information may be retained for application improvement purposes.
 
-13. CONTACT
+8. CHILDREN'S PRIVACY
+
+InnerWave is not directed to children under the age of 13.
+
+We do not knowingly collect personal data from children.
+
+9. THIRD-PARTY SERVICES
+
+InnerWave may rely on third-party services including but not limited to:
+
+• Groq AI API (for AI content generation)
+• Firebase (analytics and crash reporting)
+• Google AdMob (advertising)
+
+Each service operates under its own privacy policies.
+
+10. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy periodically.
+
+Changes will become effective when posted in the application or on the official website.
+
+Continued use of the app after updates constitutes acceptance of the revised policy.
+
+11. CONTACT
+
+If you have questions regarding this Privacy Policy, please contact:
 
 Limanex Software
-Email: limanexsoftware@outlook.com
-
-© 2026 Limanex Software. All rights reserved.
-
-14. ENTERTAINMENT DISCLAIMER AND LIMITATION OF LIABILITY
-
-InnerWave provides AI-generated insights, signals, horoscope interpretations, and symbolic guidance strictly for entertainment and informational purposes. These insights are generated automatically and may not reflect factual, scientific, medical, psychological, legal, or financial reality.
-
-InnerWave does not provide medical, mental health, legal, financial, or professional advice. Users must not rely on InnerWave content as a substitute for professional consultation.
-
-By using InnerWave, you acknowledge and agree that:
-• All insights are fictional, symbolic, or entertainment-based.
-• InnerWave makes no warranties regarding accuracy or reliability.
-• InnerWave is not responsible for decisions, actions, or outcomes resulting from use of the app.
-• You use the app entirely at your own risk.
-
-InnerWave and its developers shall not be liable for any direct, indirect, incidental, or consequential damages arising from use of the app.
+Email: [limanexsoftware@outlook.com](mailto:limanexsoftware@outlook.com)
