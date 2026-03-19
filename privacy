@@ -1,96 +1,480 @@
-Last Updated: March 13, 2026
+# INNERWAVE – PRIVACY POLICY, TERMS OF SERVICE & AI SAFETY FRAMEWORK 
 
-1. INTRODUCTION
+**Last Updated:**  19 March 2026
 
-InnerWave ("App") is operated by Limanex Software.
+---
 
-We respect your privacy and are committed to protecting user information. This Privacy Policy explains how information may be collected, used, processed, and protected when you use the InnerWave application.
+# SECTION 0 — OVERVIEW
 
-By using InnerWave, you agree to the practices described in this Privacy Policy.
+InnerWave is an AI-powered astrology and personal insight application designed for entertainment, reflection, and self-exploration.
 
-2. INFORMATION WE COLLECT
+We are committed to:
 
-InnerWave does not require account creation and does not collect personal identifying information such as name, address, or phone number.
+* Transparency
+* User safety
+* Responsible AI use
+* Data protection
 
-However, the following types of information may be collected automatically:
+---
 
-• User text inputs submitted to generate AI-based insights
-• Basic device information (device model, operating system version)
-• Application usage statistics
-• Crash reports and performance diagnostics
+# SECTION 1 — PRIVACY POLICY 
 
-This information is used strictly to operate and improve the application.
+## 1.1 Scope
 
-3. AI PROCESSING AND AUTOMATED CONTENT
+This Privacy Policy applies to all users of InnerWave globally.
 
-Some features within InnerWave generate symbolic interpretations, signals, or reflections using artificial intelligence.
+It covers:
 
-User-provided inputs may be securely transmitted to third-party AI processing services (such as Groq API) in order to generate automated responses.
+* Mobile applications
+* Websites
+* Related services
 
-These responses are generated algorithmically and are not reviewed by humans.
+---
 
-InnerWave does not use this data to identify individual users.
+## 1.2 Data Categories
 
-4. ANALYTICS
+### A. Identity Data (Optional)
 
-InnerWave may use analytics services such as Firebase Analytics to understand how the application is used.
+* Username or nickname
+* Email address (if account is used)
 
-Analytics data may include:
+### B. Astrological Data (User-Provided)
 
-• Feature usage statistics
-• Session duration
-• Device performance data
-• Crash logs
+* Date of birth
+* Time of birth
+* Birth location
 
-This information helps improve application stability and user experience.
+⚠️ This data is used solely for generating personalized insights.
 
-5. ADVERTISING
+---
 
-The free version of InnerWave may display advertisements provided by third-party advertising networks such as Google AdMob.
+### C. AI Interaction Data
 
-These services may collect limited device data (such as advertising identifiers) to deliver and measure advertisements.
+* Questions asked to AI
+* Journal entries
+* Emotional or reflective inputs
 
-InnerWave does not control how third-party advertising partners process data.
+⚠️ Important:
+This data may include **sensitive personal thoughts**.
 
-6. DATA SECURITY
+---
 
-We implement reasonable security measures designed to protect application data.
+### D. Device & Technical Data
 
-However, no method of electronic storage or transmission is completely secure, and we cannot guarantee absolute security.
+* Device type
+* OS version
+* App version
+* Crash logs
+* Session metrics
 
-7. DATA RETENTION
+---
 
-InnerWave does not permanently store user-generated text inputs.
+### E. Advertising Data
 
-Certain anonymized analytics or diagnostic information may be retained for application improvement purposes.
+Collected by partners:
 
-8. CHILDREN'S PRIVACY
+* Device identifiers
+* Ad interaction data
+* Approximate location
 
-InnerWave is not directed to children under the age of 13.
+---
 
-We do not knowingly collect personal data from children.
+## 1.3 Legal Basis (GDPR / KVKK)
 
-9. THIRD-PARTY SERVICES
+We process data based on:
 
-InnerWave may rely on third-party services including but not limited to:
+* User consent
+* Contractual necessity
+* Legitimate interest (analytics, improvement)
 
-• Groq AI API (for AI content generation)
-• Firebase (analytics and crash reporting)
-• Google AdMob (advertising)
+---
 
-Each service operates under its own privacy policies.
+## 1.4 How We Use Data
 
-10. CHANGES TO THIS PRIVACY POLICY
+We use your data to:
 
-We may update this Privacy Policy periodically.
+* Generate AI insights
+* Provide horoscope calculations
+* Improve AI models
+* Enhance UX/UI
+* Deliver ads
+* Prevent abuse
 
-Changes will become effective when posted in the application or on the official website.
+---
 
-Continued use of the app after updates constitutes acceptance of the revised policy.
+## 1.5 AI Data Processing Transparency
 
-11. CONTACT
+InnerWave uses AI systems that:
 
-If you have questions regarding this Privacy Policy, please contact:
+* Process user input dynamically
+* Generate non-deterministic outputs
+* May store anonymized interaction patterns
 
-Limanex Software
-Email: [limanexsoftware@outlook.com](mailto:limanexsoftware@outlook.com)
+We DO NOT:
+
+* Claim human-level understanding
+* Guarantee correctness
+
+---
+
+## 1.6 Sensitive Data Warning
+
+Users may input:
+
+* Emotional states
+* Personal struggles
+* Private thoughts
+
+⚠️ InnerWave is NOT designed to process sensitive data securely at medical-grade levels.
+
+---
+
+## 1.7 Data Sharing
+
+We may share data with:
+
+* Cloud providers
+* Analytics services
+* Advertising networks
+
+We NEVER sell personal data.
+
+---
+
+## 1.8 Data Retention
+
+* Active data → retained during usage
+* AI logs → anonymized or deleted periodically
+* Analytics → aggregated
+
+---
+
+## 1.9 User Rights
+
+You may:
+
+* Request deletion
+* Access your data
+* Withdraw consent
+* Request correction
+
+Contact: [support@innerwave.app](mailto:support@innerwave.app)
+
+---
+
+## 1.10 Security
+
+We use:
+
+* Encryption (HTTPS)
+* Access control
+* Cloud security standards
+
+⚠️ No system is fully secure.
+
+---
+
+## 1.11 Children Protection
+
+InnerWave is NOT intended for users under 13.
+
+---
+
+## 1.12 International Transfers
+
+Data may be processed globally.
+
+---
+
+## 1.13 Updates
+
+We may update this policy anytime.
+
+---
+
+# SECTION 2 — TERMS OF SERVICE (PRO LEVEL)
+
+## 2.1 Acceptance
+
+By using InnerWave, you agree to these Terms.
+
+---
+
+## 2.2 Service Definition
+
+InnerWave provides:
+
+* Astrology-based interpretations
+* AI-generated reflections
+* Interactive self-exploration tools
+
+---
+
+## 2.3 ENTERTAINMENT DISCLAIMER (CRITICAL)
+
+InnerWave content is:
+
+✔ Entertainment
+✔ Reflective
+
+❌ NOT factual
+❌ NOT scientific
+❌ NOT guaranteed
+
+---
+
+## 2.4 NO PROFESSIONAL ADVICE
+
+InnerWave does NOT provide:
+
+* Medical advice
+* Psychological therapy
+* Legal consultation
+* Financial guidance
+
+---
+
+## 2.5 USER RESPONSIBILITY
+
+You are fully responsible for:
+
+* Your decisions
+* Interpretation of content
+* Any actions taken
+
+---
+
+## 2.6 HIGH-RISK USE PROHIBITION
+
+You MUST NOT use InnerWave for:
+
+* Health diagnosis
+* Mental crisis decisions
+* Legal actions
+* Financial investments
+
+---
+
+## 2.7 AI LIMITATIONS
+
+AI may:
+
+* Be incorrect
+* Be misleading
+* Hallucinate
+
+---
+
+## 2.8 LIABILITY LIMITATION (VERY IMPORTANT)
+
+To the maximum extent permitted:
+
+InnerWave is NOT liable for:
+
+* Emotional outcomes
+* Life decisions
+* Financial loss
+* Mental impact
+
+---
+
+## 2.9 ACCOUNT TERMINATION
+
+We may suspend users who:
+
+* Abuse AI
+* Violate terms
+
+---
+
+## 2.10 SERVICE AVAILABILITY
+
+We do not guarantee uptime.
+
+---
+
+## 2.11 ADVERTISING
+
+Ads may appear across the app.
+
+We are not responsible for third-party content.
+
+---
+
+## 2.12 GOVERNING LAW
+
+Applicable laws apply based on jurisdiction.
+
+---
+
+# SECTION 3 — AI DISCLAIMER (ADVANCED)
+
+## 3.1 AI NATURE
+
+AI outputs are:
+
+* Generated statistically
+* Not factual truth
+* Not predictions
+
+---
+
+## 3.2 NO GUARANTEE
+
+We do NOT guarantee:
+
+* Accuracy
+* Relevance
+* Reliability
+
+---
+
+## 3.3 BIAS & LIMITATIONS
+
+AI may reflect:
+
+* Bias
+* Errors
+* Misinterpretations
+
+---
+
+## 3.4 HUMAN OVERSIGHT ABSENCE
+
+InnerWave responses are NOT reviewed by humans in real-time.
+
+---
+
+## 3.5 USER ACCOUNTABILITY
+
+You are responsible for all decisions.
+
+---
+
+# SECTION 4 — MENTAL HEALTH & SAFETY DISCLAIMER (CRITICAL BIG APP SECTION)
+
+## 4.1 NOT A THERAPY TOOL
+
+InnerWave is NOT:
+
+* A therapist
+* A psychologist
+* A mental health provider
+
+---
+
+## 4.2 EMOTIONAL CONTENT WARNING
+
+AI may generate:
+
+* Emotional interpretations
+* Sensitive suggestions
+
+---
+
+## 4.3 CRISIS DISCLAIMER
+
+If you are experiencing:
+
+* Severe distress
+* Anxiety crisis
+* Self-harm thoughts
+
+🚨 DO NOT rely on this app
+
+Instead:
+
+* Contact a licensed professional
+* Reach local emergency services
+* Use crisis helplines
+
+---
+
+## 4.4 NO DUTY OF CARE
+
+InnerWave does NOT assume responsibility for:
+
+* User mental health
+* Emotional wellbeing
+
+---
+
+## 4.5 AUTOMATED RESPONSE LIMITATION
+
+AI cannot:
+
+* Understand real human suffering
+* Provide real emotional support
+
+---
+
+# SECTION 5 — RESPONSIBLE AI USE POLICY
+
+## 5.1 Ethical Use
+
+We aim to:
+
+* Avoid harmful outputs
+* Improve safety
+
+---
+
+## 5.2 User Restrictions
+
+Users must NOT:
+
+* Use AI for harmful content
+* Manipulate or exploit system
+
+---
+
+## 5.3 Safety Monitoring
+
+We may:
+
+* Filter content
+* Limit usage
+* Block harmful queries
+
+---
+
+# SECTION 6 — AD & TRACKING TRANSPARENCY
+
+## 6.1 Ads
+
+We use:
+
+* Banner ads
+* Interstitial ads
+
+---
+
+## 6.2 Tracking
+
+Partners may track:
+
+* Device ID
+* Usage patterns
+
+---
+
+## 6.3 Consent (IMPORTANT)
+
+Where required:
+
+* We request user consent
+* Users may opt out
+
+---
+
+# SECTION 7 — FINAL ACKNOWLEDGEMENT
+
+By using InnerWave, you confirm:
+
+* You understand AI limitations
+* You accept risks
+* You will not rely on outputs
+
+---
+
+# END OF DOCUMENT
